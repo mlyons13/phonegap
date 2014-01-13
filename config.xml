@@ -4,7 +4,7 @@
 		 xmlns:gap = "http://phonegap.com/ns/1.0">
         <name>nuig weather</name>
         <description>
-            A sample Apache Cordova application that responds to the deviceready event.
+            A weather app built using phone gap.
         </description>
         
             
