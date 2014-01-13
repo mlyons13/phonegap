@@ -1,12 +1,14 @@
 
-<widget xmlns="http://www.w3.org/ns/widgets" id="com.example.weather" version="0.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" 
+		id="com.example.weather" version="0.0.1"
+		 xmlns:gap = "http://phonegap.com/ns/1.0">
         <name>nuig weather</name>
         <description>
             A sample Apache Cordova application that responds to the deviceready event.
         </description>
         
             
-        </author>
+        
         <content src="index.html" />
         <access origin="*" />
         <preference name="Fullscreen" value="true" />
