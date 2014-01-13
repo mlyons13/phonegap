@@ -9,6 +9,7 @@
         
             
         <icon src="shower1.png" />
+        <gap:splash src="weatherstation.jpg" />
         <content src="index.html" />
         <access origin="*" />
         <preference name="Fullscreen" value="true" />
