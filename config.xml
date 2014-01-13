@@ -8,7 +8,7 @@
         </description>
         
             
-        
+        <icon src="shower1.png" />
         <content src="index.html" />
         <access origin="*" />
         <preference name="Fullscreen" value="true" />
